@@ -10,17 +10,22 @@
 Рисунок №2
 
 ![](screenshots/Screenshot_1.jpg)
+
+Рисунок №3
 ![](screenshots/Screenshot_2.jpg)
 
-### Добавление файла с GitHub на лок репозиторий
-Рисунок №3
+### Добавление файла с GitHub на локальный репозиторий
+Рисунок №4
 
 ![](screenshots/Screenshot_3.jpg)
 
-### Обзор веток 
-Рисунок №4
-
+Рисунок №5
 ![](screenshots/Screenshot_4.jpg)
+
+### Обзор веток 
+Рисунок №6
+
+![](screenshots/Screenshot_15.jpg)
 
 ### История коммитов ветки branch1 и master.
 Рисунок №5
@@ -43,38 +48,29 @@
 ### Переход в редактор Vim. Изменение файла с помощью команды :diffoff
 Рисунок №9
 
-![](screenshots/Screenshot_15.jpg)
+![](screenshots/Screenshot_9.jpg)
 
 ### Результат работы в редакторе Vim
 Рисунок №10
 
-![](screenshots/Screenshot_16.jpg)
+![](screenshots/Screenshot_10.jpg)
 
-### Результат слияния
+### Удаление побочной ветки
 Рисунок №11
 
-![](screenshots/Screenshot_9.jpg)
+![](screenshots/Screenshot_18.jpg)
 
 ### Создание 3 доп файлов и создание нового коммита
 Рисунок №12
 
-![](screenshots/Screenshot_10.jpg)
-
-Рисунок №13
-
-![](screenshots/Screenshot_11.jpg)
-
-### Результат объединения веток master и branch1, показанное в истории коммитов
-Рисунок №14
-
-![](screenshots/Screenshot_12.jpg)
+![](screenshots/Screenshot_17.jpg)
 
 ### Откат коммита на один шаг
 Рисунок №15
 
-![](screenshots/Screenshot_13.jpg)
+![](screenshots/Screenshot_12.jpg)
 
-### Создание новой ветки OTCHET
+### Создание новой ветки report
 Рисунок №16
 
 ![](screenshots/Screenshot_14.jpg)
@@ -83,7 +79,7 @@
 
 Рисунок №17
 
-![](screenshots/Screenshot_17.jpg)
+![](screenshots/Screenshot_16.jpg)
 
 ## ЛОГ КОМАНД
 ```
@@ -99,10 +95,10 @@ $ git merge branch1
 $ git mergetool
 $ git status
 $ git add .
-$ git commit -m 'add base and txt'
+$ git commit -m 'get based'
 $ git branch -d branch1
 $ git branch
 $ git reset --hard HEAD~1
-$ git checkout -b 'OTCHET'
+$ git checkout -b 'report'
 ````
 ####
