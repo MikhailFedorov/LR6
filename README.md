@@ -28,40 +28,40 @@
 ![](screenshots/Screenshot_15.jpg)
 
 ### История коммитов ветки branch1 и master.
-Рисунок №5
+Рисунок №7
 
 ![](screenshots/Screenshot_5.jpg)
 
-Рисунок №6
+Рисунок №8
 
 ![](screenshots/Screenshot_6.jpg)
 
 ### Слияние веток branch1 и master, появление конфликта и его решение с помощью mergetool
-Рисунок №7
+Рисунок №9
 
 ![](screenshots/Screenshot_7.jpg)
 
-Рисунок №8
+Рисунок №10
 
 ![](screenshots/Screenshot_8.jpg)
 
 ### Переход в редактор Vim. Изменение файла с помощью команды :diffoff
-Рисунок №9
+Рисунок №11
 
 ![](screenshots/Screenshot_9.jpg)
 
 ### Результат работы в редакторе Vim
-Рисунок №10
+Рисунок №12
 
 ![](screenshots/Screenshot_10.jpg)
 
 ### Удаление побочной ветки
-Рисунок №11
+Рисунок №13
 
 ![](screenshots/Screenshot_18.jpg)
 
 ### Создание 3 доп файлов и создание нового коммита
-Рисунок №12
+Рисунок №14
 
 ![](screenshots/Screenshot_17.jpg)
 
